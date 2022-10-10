@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Hotel Badshaha",
+      "email": "badshahahotel@gmail.com",
+      "mobile": 7435901749,
+      "address": "solapur",
+      "services": "chai"
+    },
+    {
+      "id": 3,
+      "name": "sahydri hotel",
+      "email": "hotelsahydri@gmail.com",
+      "mobile": 73484795879,
+      "address": "sangali",
+      "services": "chai"
+    },
+    {
+      "id": 6,
+      "name": "manas",
+      "email": "manas@gmail.com",
+      "mobile": 17759856798,
+      "address": "pune",
+      "services": "chai"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Amit",
+      "mobile": "7855436376",
+      "email": "amit@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "Mangesh",
+      "mobile": "9021651418",
+      "email": "Mangesh@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Sandesh",
+      "mobile": "35791074901",
+      "email": "sandesh@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "Akshay",
+      "mobile": "9867889956",
+      "email": "akshay@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Avinash",
+      "mobile": "7845348687",
+      "email": "avinash",
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
